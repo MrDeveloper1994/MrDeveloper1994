@@ -6,7 +6,7 @@
 - 📫 How to reach me 
 - using the My Email Address :Mr.Developer1373@gmail.com
 - if you want contribute with me using My Email Address
-- Im Glad to help you 
+- I will be Glad to help you 
 
 <!---
 MrDeveloper1994/MrDeveloper1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
