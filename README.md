@@ -2,7 +2,7 @@
 -    Hallo, Ich heisse sina sarbaz. Ich bin Aus dem IRAN .
 -    Im Full stack Developer.
 - 👀 I’m interested in React Angular Aspcore projects
-- 💞️ I’m looking to collaborate on open source projects created by web developer
+- 💞️ I’m looking to collaborate on open source projects created by web developers
 - 📫 How to reach me ...
 
 <!---
