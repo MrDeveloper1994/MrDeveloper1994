@@ -6,6 +6,6 @@
 - 📫 How to reach me 
 - using the My Email Address :Mr.Developer1373@gmail.com
 - I will be Glad to help you                                                                                                                                                                                                  
-![This is an image](https://drive.google.com/file/d/1Smh7a9p1YTLMlepz1QAVyFS2xiUihY4L/view?usp=sharing)
+![This is an image](https://drive.google.com/uc?export=download&id=1Smh7a9p1YTLMlepz1QAVyFS2xiUihY4L)
  
 
