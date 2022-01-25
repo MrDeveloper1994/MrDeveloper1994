@@ -1,4 +1,4 @@
-<!-- - 👋 Hi, I’m Sina Sarbaz.Im from IRAN.
+<!-- - - 👋 Hi, I’m Sina Sarbaz.Im from IRAN.
 -    Hallo, Ich heisse sina sarbaz. Ich bin Aus dem IRAN .
 -  :octocat:  Im Full stack Developer.
 - 👀 I’m interested in React, React-native ,Angular ,Aspcore projects
@@ -13,27 +13,5 @@
 ██╔████╔██║██████╔╝    ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
 ██║╚██╔╝██║██╔══██╗    ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
 ██║ ╚═╝ ██║██║  ██║    ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝ -->
-                                                                                                 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.js"></script>
-
-<script>
-    var animate = new Animate({        
-        target: '[data-animate]',
-        animatedClass: 'js-animated',
-        offset: [0.5, 0.5],
-        delay: 0,
-        remove: true,
-        scrolled: false,
-        reverse: false,
-        onLoad: true,
-        onScroll: true,
-        onResize: false,
-        disableFilter: false,
-        callbackOnInit: function() {},
-        callbackOnInView: function(el) {},
-        callbackOnAnimate: function(el) {},
-    });
-    animate.init();
-</script>
+╚═╝     ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝ 
+                                                                                                  -->
