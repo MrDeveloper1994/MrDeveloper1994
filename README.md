@@ -1,7 +1,7 @@
  #### Hi there, I’m Sina Sarbaz. I'm from IRAN.                                      
 :octocat:  I'm a Full-stack Developer.
  👀 I’m interested in React, flutter ,Angular , python projects
-- 💞️ I’m looking to collaborate on open source projects created by web developers
+- 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me 
 
  contact:
