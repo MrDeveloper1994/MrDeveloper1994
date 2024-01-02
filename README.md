@@ -1,7 +1,6 @@
- #### Hi, I’m Sina Sarbaz. I'm from IRAN.                   
-##### Hallo, Ich heisse sina sarbaz. Ich bin Aus dem IRAN                    
+ #### Hi there, I’m Sina Sarbaz. I'm from IRAN.                                      
 :octocat:  I'm a Full-stack Developer.
- 👀 I’m interested in React, React-native,Angular , Aspcore projects
+ 👀 I’m interested in React, flutter ,Angular , python projects
 - 💞️ I’m looking to collaborate on open source projects created by web developers
 - 📫 How to reach me 
 
