@@ -1,7 +1,7 @@
  #### Hi there, I’m Sina Sarbaz, founder of scienpard llc company. 
  I'm from IRAN. 
  
- || [Sienpard PJSC]() || Account Vision System ||
+ || [ّFounder Sienpard KTC]() ||
      
  👀 I’m interested in technology 
 - 💞️ I’m looking to collaborate on open source projects ,glad to help you
